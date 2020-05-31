@@ -65,7 +65,7 @@ def run_unittests():
 ```shell
 $ pip install virtualenv
 $ pip install virtualenvwrapper-win
-$ cd <project_name_folder>/
+$ cd project_name_folder/
 $ mkvirtualenv venv
 $ pip install -r requirements.txt
 $ python main.py
