@@ -1,34 +1,5 @@
 # Logistic Regression
 
-> Subtitle or Short Description Goes Here
-
-> ideally one sentence
-
-> include terms/tags that can be searched
-
-**Badges will go here**
-
-- build status
-- issues (waffle.io maybe)
-- devDependencies
-- slack
-- downloads
-- license
-
-<!-- 
-## Table of Contents (Optional)
-
-> If your `README` has a lot of info, section headers might be nice.
-
-- [Installation](#installation)
-- [Features](#features)
-- [Contributing](#contributing)
-- [Team](#team)
-- [FAQ](#faq)
-- [Support](#support)
-- [License](#license)
- -->
-
 ---
 
 ## Example (Optional)
@@ -58,11 +29,7 @@ def run_unittests():
 
 ### Setup
 
-- If you want more syntax highlighting, format your code like this:
-
-> update and install this package first
-
-```shell
+```bash
 $ pip install virtualenv
 $ pip install virtualenvwrapper-win
 $ cd project_name_folder/
@@ -71,11 +38,6 @@ $ pip install -r requirements.txt
 $ python main.py
 ```
 
----
-
-## License
-
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2020 ©
+<br/> <br/>
+## 📫 Contact 
+feel free to contact me! ✊
